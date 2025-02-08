@@ -1,3 +1,4 @@
+
 Magento sample data includes a sample store, complete with more than 250 products (about 200 of them are configurable products), categories, promotional price rules, CMS pages, banners, and so on. Sample data uses the Luma theme on the storefront.
 
 Installing sample data is optional.
@@ -75,3 +76,5 @@ The deleted sample data entities will be restored. Those entities, which were ch
 ## Documentation
 
 You can find the more detailed description of sample data manipulation procedures at [Sample data overview](https://experienceleague.adobe.com/docs/commerce-operations/installation-guide/next-steps/sample-data/overview.html).
+=======
+# magento2
